@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x00 Shell Basics
 
 ## Resources
@@ -28,3 +29,6 @@
 17. [Tree](./102-tree) A script that creates the directory `welcome/`, `welcome/to/` and `welcome/to/holberton`.
 18. [Life is a series of commas, not periods](./103-commas) A script that lists all the files and directories of the current directory separated by commas `,`.
 19. [File type: Holberton](./holberton.mgc) Create a magic file `holberton.mgc` that can be used with the command `file` to detect `Holberton` data files always contain the string `HOLBERTON` at offset 0.
+=======
+ALX
+>>>>>>> 9809bc3542635e127f63220f07d6b3c6cc3e9528

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x03 Shell, init files, variables and expansions
 
 ## Resources
@@ -56,3 +57,6 @@
     - `WATER` is in base `water`.
     - `STIR` is in base `stir`.
     - The result should be in base `behlnort`.
+=======
+please read this file as it contains explanations to the codes
+>>>>>>> 9809bc3542635e127f63220f07d6b3c6cc3e9528

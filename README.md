@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 # 0x00 ALX System Engineering and DevOps 💥
@@ -33,3 +34,6 @@
 - [0x14](./0x14-mysql) : MySQL.
 - [0x15](./0x15-api) : API.
 - [Attack is the best defense.](./attack_is_the_best_defense)
+=======
+ALX
+>>>>>>> 9809bc3542635e127f63220f07d6b3c6cc3e9528

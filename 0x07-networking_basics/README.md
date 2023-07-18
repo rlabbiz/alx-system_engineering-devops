@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x07. Networking basics #0
 
 ## Resources
@@ -48,3 +49,6 @@
 <summary><a href="./5-is_the_host_on_the_network">5. Is the host on the network</a></summary><br>
 <a href='https://postimg.cc/PCJ2YNZy' target='_blank'><img src='https://i.postimg.cc/FHg8tLHM/image.png' border='0' alt='image'/></a>
 </details>
+=======
+# Networking basics #0
+>>>>>>> 9809bc3542635e127f63220f07d6b3c6cc3e9528

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x002 Shell, I/O Redirections and Filters
 
 ## Resources
@@ -63,3 +64,6 @@
     - Run command this way: `./103-the_biggest_fan < nasa_19950801.tsv`.
     - Order by number of requests, most active host or IP at the top.
     - You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`.
+=======
+Writing shell redirections commands and making them executable files
+>>>>>>> 9809bc3542635e127f63220f07d6b3c6cc3e9528

@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # script that displays TCP and UDP listening ports
 
 netstat -l
+=======
+# Displays listening ports. Includes listening sockets too
+# + as the PID and name of the program to which each socket belongs.
+
+netstat -l --program
+>>>>>>> 9809bc3542635e127f63220f07d6b3c6cc3e9528

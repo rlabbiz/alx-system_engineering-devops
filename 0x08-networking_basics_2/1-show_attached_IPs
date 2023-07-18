@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # Displays all acive IPv4 addresses on the machine.
 
 # a different way using ifconfig but now ip is a new command and ifconfig can be missing in some os
@@ -6,3 +7,8 @@
 
 ip -4 -o addr show | awk '{print $4}' | cut -d "/" -f 1
 
+=======
+# Displays all acive IPv4 addresses.
+
+ifconfig -a | grep "inet addr" | cut -d " " -f12 | cut -d ":" -f2
+>>>>>>> 9809bc3542635e127f63220f07d6b3c6cc3e9528
